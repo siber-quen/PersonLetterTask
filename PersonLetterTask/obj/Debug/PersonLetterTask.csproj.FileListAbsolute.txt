@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.Form1.resources
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.Properties.Resources.resources
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\bin\Debug\PersonLetterTask.exe.config
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\bin\Debug\PersonLetterTask.exe
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\bin\Debug\PersonLetterTask.pdb
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.exe
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.pdb
+C:\Users\User\source\repos\PersonLetterTask\PersonLetterTask\obj\Debug\PersonLetterTask.FrmSearch.resources
